@@ -37,7 +37,7 @@ def generate_theme_overrides_for_level(base_overrides, level_config):
 # Base theme overrides (will be used to generate variants)
 BASE_THEME_OVERRIDES = {
     "latte": {
-        "background.appearance": "blurred",
+        "background.appearance": "transparent",
         "background": "#f9fafcd7",
         "status_bar.background": "#f9fafcd7",
         "title_bar.background": "#f9fafcd7",
@@ -77,7 +77,7 @@ BASE_THEME_OVERRIDES = {
         "success.background": "#d4eecf"
     },
     "iced_latte": {
-        "background.appearance": "blurred",
+        "background.appearance": "transparent",
         "background": "#e8f4ffd7",
         "status_bar.background": "#e8f4ffd7",
         "title_bar.background": "#e8f4ffd7",
@@ -124,7 +124,7 @@ BASE_THEME_OVERRIDES = {
         "element.selected": "#7287fd40"
     },
     "frappe": {
-        "background.appearance": "blurred",
+        "background.appearance": "transparent",
         "background": "#303446d7",
         "status_bar.background": "#303446d7",
         "title_bar.background": "#303446d7",
@@ -164,7 +164,7 @@ BASE_THEME_OVERRIDES = {
         "success.background": "#243427"
     },
     "macchiato": {
-        "background.appearance": "blurred",
+        "background.appearance": "transparent",
         "background": "#24273ad7",
         "status_bar.background": "#24273ad7",
         "title_bar.background": "#24273ad7",
@@ -204,7 +204,7 @@ BASE_THEME_OVERRIDES = {
         "success.background": "#233225"
     },
     "mocha": {
-        "background.appearance": "blurred",
+        "background.appearance": "transparent",
         "background": "#1e1e2ed7",
         "status_bar.background": "#1e1e2ed7",
         "title_bar.background": "#1e1e2ed7",
@@ -244,7 +244,7 @@ BASE_THEME_OVERRIDES = {
         "success.background": "#213023"
     },
     "espresso": {
-        "background.appearance": "blurred",
+        "background.appearance": "transparent",
         "background": "#000000d7",
         "status_bar.background": "#000000d7",
         "title_bar.background": "#000000d7",
